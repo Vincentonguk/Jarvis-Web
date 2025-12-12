@@ -1,0 +1,17 @@
+# Arquivos de cache Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+env/
+venv/
+.venv/
+
+# Memória do Jarvis (não enviar para o GitHub)
+jarvis_mem.json
+
+# Cache do Streamlit
+.streamlit/
+
+# Configs sensíveis
+*.env
